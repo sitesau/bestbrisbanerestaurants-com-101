@@ -1,0 +1,19 @@
+{
+  "wheel_id": 312,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-com-101",
+  "project": "restaurant-guide-brisbane-comparison-3cde5096909ae0a08a9c5a1db8",
+  "parent_t1_ref": "bestbrisbanerestaurants-com-150",
+  "node_role": "feeder",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurant guide brisbane comparison",
+  "intended_url": "https://sites-e470-2.web.app/restaurant-guide-brisbane-comparison-3cde5096909ae0a08a9c5a1db8/",
+  "writeback_nonce": "9ecb3bca1af7aac7",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/restaurant-guide-brisbane-9072561dccd06730b8fe9cdacb51a03978997/",
+      "anchor": "restaurant guide brisbane",
+      "rel": "follow"
+    }
+  ]
+}
